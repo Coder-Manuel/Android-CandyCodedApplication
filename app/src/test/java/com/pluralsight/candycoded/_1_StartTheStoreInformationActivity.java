@@ -24,7 +24,6 @@ import static org.junit.Assert.assertTrue;
 @RunWith(PowerMockRunner.class)
 public class _1_StartTheStoreInformationActivity {
     private static MainActivity activity;
-
     private static boolean onOptionsItemSelected_result = true;
     private static boolean called_Intent = false;
     private static boolean called_Intent_correctly = false;
